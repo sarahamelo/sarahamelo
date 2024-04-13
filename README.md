@@ -35,7 +35,7 @@
 
 ---
 
-<div>
+<div align="center">
 <a href="https://github.com/sarahamelo">
 <img loading="lazy" height="140px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahamelo&layout=compact&langs_count=7&theme=dark"/>
 <img loading="lazy" hheight="100px" width="330px" src="https://github-readme-stats.vercel.app/api?username=sarahamelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
